@@ -5,6 +5,10 @@ Sipeed TangNano 4K projects
 ## Programming device
 
 ```shell-session
+# program SRAM
+$ tools/$(uname)/bin/openFPGALoader -m -b tangnano4k <bitstream>
+
+# program FLASH
 $ tools/$(uname)/bin/openFPGALoader -m -b tangnano4k <bitstream>
 ```
 
