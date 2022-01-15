@@ -9,7 +9,7 @@ Sipeed TangNano 4K projects
 $ tools/$(uname)/bin/openFPGALoader -m -b tangnano4k <bitstream>
 
 # program FLASH
-$ tools/$(uname)/bin/openFPGALoader -m -b tangnano4k <bitstream>
+$ tools/$(uname)/bin/openFPGALoader -f -b tangnano4k <bitstream>
 ```
 
 ***
@@ -20,3 +20,4 @@ $ tools/$(uname)/bin/openFPGALoader -m -b tangnano4k <bitstream>
 - Sipeed GitHub: https://github.com/sipeed/TangNano-4K-example
 - Tool Download: http://www.gowinsemi.com.cn/faq.aspx
 - openFPGALoader: https://github.com/trabucayre/openFPGALoader
+- openFPGALoader doc: https://trabucayre.github.io/openFPGALoader/
