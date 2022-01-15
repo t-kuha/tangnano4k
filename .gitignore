@@ -1,0 +1,13 @@
+# Temp.
+.DS_Store
+_*
+
+
+# Data
+*.bit
+*.rbf
+*.svf
+*.bz
+*.gz
+*.xz
++.zip
