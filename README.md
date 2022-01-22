@@ -2,6 +2,12 @@
 
 Sipeed TangNano 4K projects
 
+## How to set up environment
+
+```shell-session
+$ export PATH=$(pwd)/python/bin:$(pwd)/tools/$(uname)/bin:${PATH}
+```
+
 ## Programming device
 
 ```shell-session
