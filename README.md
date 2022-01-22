@@ -15,10 +15,10 @@ $ export PATH=$(pwd)/python/bin:$(pwd)/tools/$(uname)/bin:${PATH}
 
 ```shell-session
 # program SRAM
-$ tools/$(uname)/bin/openFPGALoader -m -b tangnano4k <bitstream>
+$ openFPGALoader -m -b tangnano4k <bitstream>
 
 # program FLASH
-$ tools/$(uname)/bin/openFPGALoader -f -b tangnano4k <bitstream>
+$ openFPGALoader -f -b tangnano4k <bitstream>
 ```
 
 ***
