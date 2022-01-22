@@ -1,7 +1,9 @@
+# VSCode
+.vscode
+
 # Temp.
 .DS_Store
 _*
-
 
 # Data
 *.bit
