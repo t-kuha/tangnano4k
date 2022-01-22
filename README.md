@@ -5,7 +5,10 @@ Sipeed TangNano 4K projects
 ## How to set up environment
 
 ```shell-session
+:: Linux & Mac
 $ export PATH=$(pwd)/python/bin:$(pwd)/tools/$(uname)/bin:${PATH}
+:: Only Mac
+> export DYLD_LIBRARY_PATH=$(pwd)/python/lib
 ```
 
 ## Programming device
