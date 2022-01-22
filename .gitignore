@@ -13,4 +13,5 @@ _*
 +.zip
 
 # Tools
-tools/IDE_*
+tools/ide-*
+python/
