@@ -30,3 +30,4 @@ $ openFPGALoader -f -b tangnano4k <bitstream>
 - Tool Download: http://www.gowinsemi.com.cn/faq.aspx
 - openFPGALoader: https://github.com/trabucayre/openFPGALoader
 - openFPGALoader doc: https://trabucayre.github.io/openFPGALoader/
+- DVI TX ref design by timschuerewegen: https://github.com/timschuerewegen/tang-nano-4k
